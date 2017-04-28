@@ -1,2 +1,2 @@
-# aurorahager.github.oi
+# aurorahager.github.io
 Resume
